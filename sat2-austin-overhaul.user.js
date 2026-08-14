@@ -11,7 +11,7 @@
 // @match        https://prod.na.rtw.whs.amazon.dev/*
 // @match        https://fcmenu-iad-regionalized.corp.amazon.com/*/laborTrackingKiosk*
 // @match        https://durable.corp.amazon.com/*
-// @require      https://drive-render.corp.amazon.com/view/changiao@/MaintainScript/Shared%20Library%20WHS%202.js
+// @require      https://raw.githubusercontent.com/changiao2024-beep/sat2-austin-overhaul/main/lib/shared-library-whs-2.js
 // @require      https://drive-render.corp.amazon.com/view/smabrade@/Current/WHS_DarkOverlay.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
